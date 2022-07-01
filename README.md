@@ -5,7 +5,7 @@ This repository shares a copy of my SQL querythat I used to analyze two **[datas
 
 **[Data Exploration](https://github.com/JenniferFell1/rakuten_viki/blob/1211011ff530287f4a8ae33fe247daa0d2bcefcd/Rakuten.ipynb)**: A copy of the SQL queries used for data exploration and analysis of the raw datasets.
 
-**[Summary](https://drive.google.com/file/d/1LGd_OFgJYVGSO072zrS4ozodRB2pXcea/view)**: A Tableau Public dashboard summerizing findings from the analysis.
+**[Summary](https://public.tableau.com/app/profile/jennifer.fell2971)**: A Tableau Public dashboard summerizing findings from the analysis.
 
 
 ## Requirements
