@@ -14,5 +14,3 @@ This repository shares a copy of my SQL queries used to analyze two datasets fro
 - [Google BigQuery](https://cloud.google.com/bigquery)
 - [Tableau Public](https://www.tableau.com/)
 
-## Environment
-- [Anaconda](https://www.anaconda.com/)
