@@ -3,7 +3,7 @@
 This repository shares a copy of my SQL queries used to analyze two datasets from **[ourworldindata.org](https://ourworldindata.org/covid-deaths)** reporting COVID-19 cases, deaths and vaccination from January 2020 to June 2022. The purpose of the analysis is to report the global numbers of cases, deaths and vaccination per country and to see what effects vaccination have had on the death rate and the number of cases reported.
 
 
-**[Data Exploration](SQL Queries)**: A copy of the SQL queries used for data exploration and analysis of the raw datasets.
+**[Data Exploration](https://github.com/JenniferFell1/COVID-19-SQL.git)**: A copy of the SQL queries used for data exploration and analysis of the raw datasets.
 
 **[Summary](https://public.tableau.com/app/profile/jennifer.fell2971)**: A Tableau Public dashboard summerizing findings from the analysis.
 
