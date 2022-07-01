@@ -1,6 +1,6 @@
 # COVID-19 Global Data Analysis
 
-This repository shares a copy of my SQL queries used to analyze two datasets from **[ourworldindata.org](https://ourworldindata.org/covid-deaths)** reporting COVID-19 cases, deaths and vaccination from January 2020 to June 2022. The purpose of the analysis is to report the global numbers . The American website features Asian TV shows and movies from Korea, China, Taiwan, Japan and Thailand translated in over 200 languages. The datasets include 1,800+ titles and 19,000+ credits for actors/actresses and directors. 
+This repository shares a copy of my SQL queries used to analyze two datasets from **[ourworldindata.org](https://ourworldindata.org/covid-deaths)** reporting COVID-19 cases, deaths and vaccination from January 2020 to June 2022. The purpose of the analysis is to report the global numbers of cases, deaths and vaccination per country and to see what effects vaccination have had on the death rate and the number of cases reported.
 
 
 **[Data Exploration](https://github.com/JenniferFell1/rakuten_viki/blob/1211011ff530287f4a8ae33fe247daa0d2bcefcd/Rakuten.ipynb)**: A copy of the SQL queries used for data exploration and analysis of the raw datasets.
